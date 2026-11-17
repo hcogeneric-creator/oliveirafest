@@ -1,0 +1,1 @@
+import{i as e}from"./motion-scroll-ChOc7VI3.js";var t=class extends Error{constructor(t,n){super(n),e(this,`code`,void 0),this.code=t}};export{t};
